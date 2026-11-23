@@ -1,23 +1,12 @@
 # 02 — Core Tools
 
-## Công cụ chính
+Chuẩn bị prompt và bảng kiểm từ [01 — Foundations](../01-Foundations/README.md). Chọn công cụ theo đầu ra và dữ liệu bạn có quyền sử dụng.
 
-### 01 — ChatGPT
+| Công cụ | Khi nào nên thử | Bài thực hành |
+| --- | --- | --- |
+| [01 — ChatGPT](./01-ChatGPT/README.md) | Cần một trợ lý đa dụng cho viết, tìm kiếm, dữ liệu hoặc hình ảnh | Duyệt bản tổng hợp có số liệu từ CSV |
+| [02 — Claude](./02-Claude/README.md) | Cần so sánh tài liệu, tổng hợp và biên tập theo nguồn | Trích thay đổi giữa hai phiên bản |
+| [03 — Gemini Notebook (NotebookLM)](./03-NotebookLM/README.md) | Cần học hoặc hỏi đáp trên một tập nguồn đã chọn | Tạo câu hỏi học tập và mở trích dẫn |
+| [04 — n8n](./04-n8n/README.md) | Cần nối các bước lặp lại và quản lý trường hợp lỗi | Phân luồng dữ liệu mẫu, kiểm tra từng nhánh |
 
-Trợ lý đa dụng cho brainstorming, research, tài liệu, dữ liệu, hình ảnh và các dự án dài hạn.
-
-### 02 — Claude
-
-Trợ lý đa dụng cho phân tích, suy luận, viết và làm việc với tài liệu dài.
-
-### 03 — NotebookLM
-
-Công cụ học tập và tổng hợp kiến thức dựa trên một tập nguồn do người dùng cung cấp.
-
-### 04 — n8n
-
-Công cụ kết nối ứng dụng, API và AI thành workflow tự động, có thể bổ sung human-in-the-loop.
-
-## Phạm vi
-
-Phần này dạy mental model, khả năng cốt lõi, giới hạn và cách sử dụng từng tool. Các bài toán công việc hoàn chỉnh nằm trong `03-Workflows` để tránh lặp lại cùng một hướng dẫn ở nhiều tool.
+Hoàn thành một bài với trợ lý chính, lưu đầu vào, đầu ra và bảng kiểm. Khi đã có nhu cầu phù hợp, thử thêm Gemini Notebook hoặc n8n. Mở [03 — Workflows](../03-Workflows/README.md) để thực hành từ đầu vào đến sản phẩm công việc đã duyệt.

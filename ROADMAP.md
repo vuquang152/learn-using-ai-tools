@@ -4,26 +4,28 @@ Roadmap ưu tiên hoàn thiện một đường học có thể sử dụng đư
 
 ## Giai đoạn 1 — Nền móng
 
-- [ ] Hoàn thiện General Foundations.
+- [x] Hoàn thiện General Start Here và Foundations (bản v1).
 - [x] Hoàn thiện Software Engineering Foundations (bản v1).
 - [ ] Xây template thống nhất cho lesson, exercise và project.
 - [ ] Viết glossary cho các thuật ngữ AI phổ biến.
 
 ## Giai đoạn 2 — Công cụ cốt lõi
 
-- [ ] ChatGPT cho công việc đa dụng.
-- [ ] Claude cho phân tích và làm việc với tài liệu.
+- [x] ChatGPT cho công việc đa dụng (General v1).
+- [x] Claude cho phân tích và làm việc với tài liệu (General v1).
 - [x] Claude Code cho repository và terminal workflow (bản v1).
 - [x] Codex cho repository, coding agent và cộng tác nhiều bước (bản v1).
-- [ ] NotebookLM cho học tập dựa trên nguồn.
-- [ ] n8n cho workflow automation trong General.
+- [x] Gemini Notebook (NotebookLM) cho học tập dựa trên nguồn (General v1).
+- [x] n8n cho workflow automation trong General (bản v1).
 - [x] n8n cho quy trình kỹ thuật và xử lý lỗi (Software Engineering v1).
 - [x] OpenRouter cho tích hợp mô hình vào Java/Spring và n8n (Software Engineering v1).
 
 ## Giai đoạn 3 — Workflow thực tế
 
-- [ ] Research và kiểm chứng nguồn.
-- [ ] Viết và biên tập tài liệu.
+- [x] Nghiên cứu và kiểm chứng nguồn (General v1).
+- [x] Viết và biên tập tài liệu (General v1).
+- [x] Học tập, phân tích dữ liệu và thuyết trình (General v1).
+- [x] Năng suất văn phòng và tự động hóa (General v1).
 - [ ] Đọc hiểu codebase.
 - [ ] Lập kế hoạch và triển khai feature.
 - [ ] Debug, test, refactor và code review.

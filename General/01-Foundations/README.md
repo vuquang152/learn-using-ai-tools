@@ -1,13 +1,17 @@
 # 01 — Foundations
 
-## Nội dung theo thứ tự
+Phần này dùng chung cho mọi công cụ. Chuẩn bị một đầu vào và bản làm thủ công từ [00 — Start Here](../00-Start-Here/README.md).
 
-1. AI và LLM có thể làm gì.
-2. Giới hạn, hallucination và uncertainty.
-3. Cấu trúc yêu cầu: goal, context, constraints, output format và acceptance criteria.
-4. Quản lý context trong cuộc hội thoại dài.
-5. Tìm nguồn và kiểm chứng kết quả.
-6. Privacy, security, copyright và responsible use.
-7. Cách chọn tool theo bài toán, chi phí và độ nhạy cảm của dữ liệu.
+## Thứ tự học
 
-Đây là phần bắt buộc trước khi học workflow hoặc automation.
+1. [AI và LLM trong công việc](./01-ai-and-llms.md)
+2. [Giới hạn, hallucination và độ chắc chắn](./02-limitations-and-uncertainty.md)
+3. [Viết yêu cầu có tiêu chí hoàn thành](./03-writing-requests.md)
+4. [Giữ context khi làm việc nhiều lượt](./04-managing-context.md)
+5. [Tìm nguồn và kiểm chứng đầu ra](./05-verifying-outputs.md)
+6. [Dữ liệu, quyền sử dụng và trách nhiệm](./06-responsible-use.md)
+7. [Chọn công cụ và đo hiệu quả](./07-choosing-tools.md)
+
+Bạn hoàn thành phần này khi có thể giao một việc có tiêu chí kiểm tra, tiếp tục việc đó từ bản bàn giao, đối chiếu các kết luận chính với nguồn, giải thích dữ liệu nào được phép dùng và đo thời gian sau khi tính cả phần review.
+
+Học tiếp [02 — Core Tools](../02-Core-Tools/README.md).
