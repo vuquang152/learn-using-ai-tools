@@ -8,6 +8,7 @@ Phần này hướng dẫn dùng coding agent trong repository, tự động hó
 2. [Codex](./02-Codex/README.md)
 3. [n8n — Tự động hóa quy trình kỹ thuật](./03-n8n/README.md)
 4. [OpenRouter — Tích hợp và chọn mô hình qua API](./04-OpenRouter/README.md)
+5. [Vận hành và tối ưu — Context, chất lượng, hạn mức và chi phí](./05-Optimization/README.md)
 
 ## Chọn coding agent chính
 
@@ -31,6 +32,7 @@ Bảng trên dùng để định vị khái niệm, không phải tuyên bố to
 4. Chuyển sang tool còn lại với cùng task contract và codebase state.
 5. So sánh chất lượng, review effort, quyền hạn và khả năng kiểm chứng — không chỉ thời gian tạo patch.
 6. Học n8n bằng workflow kiểm tra kết quả build. Học OpenRouter bằng một request trực tiếp và bài tích hợp Java/Spring. Sau đó ghép hai công cụ trong [bài thực hành n8n + OpenRouter](./04-OpenRouter/03-practice.md#bài-2--ghép-với-n8n).
+7. Áp dụng [Vận hành và tối ưu](./05-Optimization/README.md) cho từng công cụ sau bài thực hành đầu tiên. Bài tổng hợp cho phép chọn repository và stack tùy ý.
 
 ## Điều kiện hoàn thành
 
@@ -41,3 +43,4 @@ Bảng trên dùng để định vị khái niệm, không phải tuyên bố to
 - Có scorecard cho cùng một task trên cả hai tool.
 - Xử lý được kết quả build hợp lệ và đầu vào sai trong n8n.
 - Gọi được một mô hình đã chọn qua OpenRouter và kiểm thử cách ứng dụng xử lý lỗi hoặc kết quả thiếu.
+- Đo được tác động của một thay đổi về context, model hoặc workflow bằng chỉ số sử dụng thực tế và cùng tiêu chí chất lượng.

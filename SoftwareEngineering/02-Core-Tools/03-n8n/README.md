@@ -5,6 +5,7 @@ n8n chạy quy trình theo trigger, truyền dữ liệu giữa các node và l�
 1. [Thiết lập và chạy workflow đầu tiên](./01-setup-and-first-workflow.md)
 2. [Xử lý lỗi và kiểm soát tác động](./02-reliable-workflows.md)
 3. [Bài thực hành phân loại kết quả build](./03-practice.md)
+4. [Tối ưu execution, API call và tài nguyên n8n](../05-Optimization/05-n8n.md)
 
 Sau module, bạn có thể lần theo dữ liệu ở từng node và giải thích cách workflow phản hồi với lần chạy thành công, build lỗi, đầu vào sai và sự kiện trùng. Bài này dùng Manual Trigger và chạy được với dữ liệu mẫu trong editor.
 

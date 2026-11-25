@@ -10,6 +10,7 @@ Claude Code là coding agent có thể đọc codebase, sửa file, chạy comma
 4. [Workflow làm việc hằng ngày](./04-daily-workflow.md)
 5. [Skills, hooks và MCP](./05-extending-claude-code.md)
 6. [Bài thực hành Claude Code](./06-practice.md)
+7. [Tối ưu context, usage và chi phí Claude Code](../05-Optimization/03-claude-code.md)
 
 ## Phạm vi
 

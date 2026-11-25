@@ -19,6 +19,7 @@ Roadmap ưu tiên hoàn thiện một đường học có thể sử dụng đư
 - [x] n8n cho workflow automation trong General (bản v1).
 - [x] n8n cho quy trình kỹ thuật và xử lý lỗi (Software Engineering v1).
 - [x] OpenRouter cho tích hợp mô hình vào Java/Spring và n8n (Software Engineering v1).
+- [x] Vận hành và tối ưu Claude Code, Codex, n8n và OpenRouter, có bài đo trên repository tùy chọn (Software Engineering v1).
 
 ## Giai đoạn 3 — Workflow thực tế
 

@@ -51,3 +51,5 @@ Chấm 0–2:
 | Learning | không rõ | ghi chú | cải thiện hệ thống |
 
 Một workflow chỉ nên tự động hóa sâu hơn sau khi nhiều lần đạt kết quả ổn định, không phải sau một demo thành công.
+
+Áp dụng scorecard vào một thử nghiệm có đối chứng trong [Core Tools — Vận hành và tối ưu](../02-Core-Tools/05-Optimization/README.md).

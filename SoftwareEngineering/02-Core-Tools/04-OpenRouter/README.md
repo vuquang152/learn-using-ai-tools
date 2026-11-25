@@ -5,6 +5,7 @@ OpenRouter cung cấp API gọi mô hình qua nhiều nhà cung cấp. Module n�
 1. [Gọi API đầu tiên từ PowerShell](./01-first-api-call.md)
 2. [Chọn mô hình, định tuyến và xử lý lỗi](./02-routing-and-reliability.md)
 3. [Bài thực hành Java/Spring và n8n](./03-practice.md)
+4. [Tối ưu model, cache và ngân sách OpenRouter](../05-Optimization/06-openrouter.md)
 
 Hoàn thành khi bạn có một request với dữ liệu giả lập, một bảng so sánh hai mô hình trên cùng đầu vào và bằng chứng backend xử lý được phản hồi thành công, phản hồi thiếu và lỗi từ upstream.
 

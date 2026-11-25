@@ -10,6 +10,7 @@ Codex có thể làm việc với repository qua CLI, IDE, desktop và môi trư
 4. [Workflow, review và worktree](./04-workflow-review-worktree.md)
 5. [Skills, hooks và MCP](./05-extending-codex.md)
 6. [Bài thực hành Codex](./06-practice.md)
+7. [Tối ưu context và hạn mức Codex](../05-Optimization/04-codex.md)
 
 ## Phạm vi
 
