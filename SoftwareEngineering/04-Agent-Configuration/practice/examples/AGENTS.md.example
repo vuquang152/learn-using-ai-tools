@@ -1,0 +1,6 @@
+# Quy ước Ticket CLI
+
+- Entry point ở `bin/tickets.mjs`. Parser ở `src/cli.mjs`, logic chọn ticket ở `src/tickets.mjs`.
+- Giữ mảng JSON trên stdout và thông báo lỗi trên stderr.
+- Sau khi sửa code, chạy `node test/smoke.test.mjs` ở root, rồi chạy ca CLI liên quan. Báo lệnh đã chạy và kết quả.
+- Giữ dữ liệu fixture và dependency hiện có trong bài thực hành.

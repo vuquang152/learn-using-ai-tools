@@ -1,0 +1,4 @@
+# Quy ước cho src
+
+- Tên mục báo cáo về logic trong thư mục này là `Luồng ticket`.
+- Hàm xử lý nghiệp vụ trả dữ liệu. Entry point chịu trách nhiệm in kết quả.

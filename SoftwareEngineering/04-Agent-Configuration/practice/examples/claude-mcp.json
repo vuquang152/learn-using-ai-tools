@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ticketlab": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "lab/ticket-mcp.mjs"
+      ]
+    }
+  }
+}

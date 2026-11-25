@@ -27,10 +27,11 @@ Roadmap ưu tiên hoàn thiện một đường học có thể sử dụng đư
 - [x] Viết và biên tập tài liệu (General v1).
 - [x] Học tập, phân tích dữ liệu và thuyết trình (General v1).
 - [x] Năng suất văn phòng và tự động hóa (General v1).
-- [ ] Đọc hiểu codebase.
-- [ ] Lập kế hoạch và triển khai feature.
-- [ ] Debug, test, refactor và code review.
-- [ ] Git, worktree và CI/CD.
+- [x] Đọc hiểu codebase (Software Engineering Core Workflows v1).
+- [x] Lập kế hoạch và triển khai feature (Software Engineering Core Workflows v1).
+- [x] Debug, test, refactor và code review (Software Engineering Core Workflows v1).
+- [x] Documentation, Git, worktree và CI/CD (Software Engineering Core Workflows v1).
+- [x] Cấu hình agent, skills, MCP, hooks và phân quyền cho Claude Code và Codex (Software Engineering Agent Configuration v1).
 
 ## Giai đoạn 4 — Chuyên ngành ưu tiên
 

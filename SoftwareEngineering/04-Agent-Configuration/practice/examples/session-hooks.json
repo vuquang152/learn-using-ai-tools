@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node lab/session-note.mjs",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

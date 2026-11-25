@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "ask": [
+      "mcp__ticketlab__get_ticket"
+    ],
+    "deny": [
+      "Edit(./data/**)",
+      "Read(./lab-private/**)"
+    ]
+  }
+}

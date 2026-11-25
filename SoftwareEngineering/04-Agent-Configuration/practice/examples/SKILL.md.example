@@ -1,0 +1,11 @@
+---
+name: ticket-review
+description: Review một diff hoặc hành vi của Ticket CLI theo hợp đồng đầu ra. Dùng khi người dùng yêu cầu review thay đổi bộ lọc hoặc CLI.
+---
+
+# Review Ticket CLI
+
+1. Xác định diff hoặc hành vi cần review. Nếu thiếu base hoặc diff, ghi giới hạn và review ca người dùng chỉ định.
+2. Đọc file liên quan rồi đối chiếu stdout JSON, stderr, exit code và thứ tự ticket.
+3. Nếu task cho phép, chạy một ca bình thường và một ca biên bằng lệnh local. Giữ nguyên file.
+4. Trả các mục **Phát hiện**, **Bằng chứng**, **Chưa kiểm tra**. Mỗi phát hiện kèm file/hàm, đầu vào và kết quả mong đợi.
